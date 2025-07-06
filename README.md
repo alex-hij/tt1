@@ -34,3 +34,9 @@ setup(
 
 ` python -m twine upload dist/*`
 
+
+# how to install and run:
+
+` pip install tt1hehehaha==0.1`
+
+` python -c "import tt1; tt1.say_hello()"`
